@@ -1,0 +1,69 @@
+﻿county,state,proximity,numeric,storm
+angelina,angelina_tx,inland,3,rita
+blanco,blanco_tx,far inland,4,rita
+brazoria,brazoria_tx,coast,1,rita
+burnet,burnet_tx,far inland,4,rita
+chambers,chambers_tx,coast,1,rita
+cooke,cooke_tx,far inland,4,rita
+crockett,crockett_tx,far inland,4,rita
+dawson,dawson_tx,far inland,4,rita
+fort bend,fort bend_tx,adjacent,2,rita
+galveston,galveston_tx,coast,1,rita
+hardin,hardin_tx,adjacent,3,rita
+harris,harris_tx,adjacent,3,rita
+jasper,jasper_tx,inland,2,rita
+jefferson,jefferson_tx,coast,1,rita
+liberty,liberty_tx,adjacent,2,rita
+montgomery,montgomery_tx,inland,2,rita
+nacogdoches,nacogdoches_tx,inland,2,rita
+newton,newton_tx,inland,2,rita
+orange,orange_tx,adjacent,2,rita
+polk,polk_tx,inland,3,rita
+sabine,sabine_tx,inland,3,rita
+san augustine,san augustine_tx,inland,3,rita
+san jacinto,san jacinto_tx,inland,3,rita
+shelby,shelby_tx,inland,3,rita
+trinity,trinity_tx,inland,3,rita
+tyler,tyler_tx,inland,3,rita
+walker,walker_tx,inland,3,rita
+victoria,victoria_tx,adjacent,2,harvey
+aransas,aransas_tx,coast,1,harvey
+austin,austin_tx,inland,3,harvey
+bastrop,bastrop_tx,inland,3,harvey
+bee,bee_tx,adjacent,2,harvey
+brazoria,brazoria_tx,coast,1,harvey
+caldwell,caldwell_tx,inland,3,harvey
+calhoun,calhoun_tx,coast,1,harvey
+chambers,chambers_tx,coast,1,harvey
+colorado,colorado_tx,inland,3,harvey
+dewitt,dewitt_tx,inland,3,harvey
+fayette,fayette_tx,inland,3,harvey
+fort bend,fort bend_tx,adjacent,2,harvey
+galveston,galveston_tx,coast,1,harvey
+goliad,goliad_tx,adjacent,2,harvey
+gonzales,gonzales_tx,inland,3,harvey
+grimes,grimes_tx,inland,3,harvey
+hardin,hardin_tx,adjacent,2,harvey
+harris,harris_tx,adjacent,2,harvey
+jackson,jackson_tx,adjacent,2,harvey
+jasper,jasper_tx,inland,3,harvey
+jefferson,jefferson_tx,coast,1,harvey
+karnes,karnes_tx,inland,3,harvey
+kleberg,kleberg_tx,coast,1,harvey
+lavaca,lavaca_tx,inland,3,harvey
+lee,lee_tx,inland,3,harvey
+liberty,liberty_tx,adjacent,2,harvey
+matagorda,matagorda_tx,coast,1,harvey
+montgomery,montgomery_tx,inland,3,harvey
+newton,newton_tx,inland,3,harvey
+nueces,nueces_tx,coast,1,harvey
+orange,orange_tx,adjacent,2,harvey
+polk,polk_tx,inland,3,harvey
+refugio,refugio_tx,adjacent,2,harvey
+sabine,sabine_tx,inland,3,harvey
+san jacinto,san jacinto_tx,inland,3,harvey
+san patricio,san patricio_tx,coast,1,harvey
+tyler,tyler_tx,inland,3,harvey
+walker,walker_tx,inland,3,harvey
+waller,waller_tx,inland,2,harvey
+wharton,wharton_tx,adjacent,2,harvey
