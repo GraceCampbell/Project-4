@@ -1,10 +1,9 @@
-# Estimating Economic Impact of Hurricanes
+# Client Project: Estimating Economic Impact of Hurricanes
+---
+# Purpose:
 
-Purpose:
-
-Assess the economic impact of hurricanes using time series modeling
-
-Focus:
+**Assess the economic impact of hurricanes using time series modeling**
+>Focus:
 For this project, we decided to look at Hurricane Harvey and Hurricane Rita to carry out our analysis.
 
 # Team Members
