@@ -7,8 +7,8 @@
 For this project, we decided to look at Hurricane Harvey and Hurricane Rita and how they affected regions in Texas to carry out our analysis
 
 # Team Members
->Grace Campbell <br /> : https://www.linkedin.com/in/gracecampbell4/
-Kevin Kim <br />  : https://www.linkedin.com/in/kkim0817/
+>Grace Campbell: https://www.linkedin.com/in/gracecampbell4/  <br /> 
+Kevin Kim: https://www.linkedin.com/in/kkim0817/  <br />  
 CJ Warner <br />
 Marie Downer 
 
