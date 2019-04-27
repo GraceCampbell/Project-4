@@ -8,7 +8,7 @@ For this project, we decided to look at Hurricane Harvey and Hurricane Rita and 
 
 # Team Members
 >Grace Campbell: https://www.linkedin.com/in/gracecampbell4/  <br /> 
-Kevin Kim: https://www.linkedin.com/in/kkim0817/ 
+Kevin Kim: https://www.linkedin.com/in/kkim0817/  <br />  
 CJ Warner <br />
 Marie Downer 
 
