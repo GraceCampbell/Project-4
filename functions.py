@@ -12,9 +12,9 @@ import matplotlib.pyplot as plt
 # Functions
 def make_datetime(df):
     if len(df) < 75:
-        df.index = pd.date_range('2001-01', '2018-09', freq='MS')
+        df.index = pd.date_range('2001', '2018', freq='MS')
     else:
-        df.index = pd.date_range('2000', '2018-09', freq='MS')
+        df.index = pd.date_range('2000-01', '2017-09', freq='MS')
     
 def monthly(df, county=None):
     a = []
