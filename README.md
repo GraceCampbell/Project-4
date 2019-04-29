@@ -33,8 +33,8 @@
 >   - Individual Assistance Housing Registrants Large Disasters (County - Per Storm)
 
 > ### 2. Explore/Analyze the Data
-> ![image](materials/fig2.png)
-> ![image](materials/fig1.png)
+> ![image](https://github.com/GraceCampbell/Project-4/blob/master/materials/fig2.PNG)
+> ![image](https://github.com/GraceCampbell/Project-4/blob/master/materials/fig1.PNG)
 
 > ### 3. Model the Data
 > Our overall strategy was to compare the actual post-hurricane trajectory of economic indicators to a predicted trajectory of those indicators based on pre-hurricane data. In other words, what would the economy look like if that hurricane never happened?
@@ -46,9 +46,9 @@
 > - Monthly employment in the construction industry (by county)
 >    - We modeled on the three counties with the highest dollar amount in damage for each hurricane
 >
-> ![image](materials/fig3.png)
-> ![image](materials/fig4.png)
-> ![image](materials/fig5.png)
+> ![image](https://github.com/GraceCampbell/Project-4/blob/master/materials/fig3.PNG)
+> ![image](https://github.com/GraceCampbell/Project-4/blob/master/materials/fig4.PNG)
+> ![image](https://github.com/GraceCampbell/Project-4/blob/master/materials/fig5.PNG)
 
 > ### 4. Make Conclusions/Give Recommendations
 > **Practical Implications**
